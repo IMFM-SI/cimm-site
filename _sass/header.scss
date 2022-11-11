@@ -1,0 +1,104 @@
+@import 'variables';
+
+header{
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    overflow: hidden;
+  
+    #site_title{
+        text-align: center;
+        color: black;
+        a{
+            text-decoration: none;
+        }
+        h1{
+            max-width: 12ch;
+            margin: 10px auto;
+            border-bottom: 0.15em solid $color-primary;
+        }
+        h2{
+            font-family: $base-font;
+            color: $color-secondary;
+            margin-top: 0px;
+            font-style: oblique;
+            font-size: 1.2rem;
+        }
+    }
+    #subheader{
+        display: block;
+        margin-top: 15px;
+            .pages{
+                display: block;
+                text-align: center;
+                li{
+                    display: inline-block;
+                    list-style-type: none;
+                }
+                a:hover{
+                    color: black;
+                }
+                a{
+                    text-decoration: none;
+                    color: $base; 
+                    margin: 3px 0.5rem;
+                    font-size: 1.05rem;
+                }
+                .active a{
+                    color: black;
+                    text-decoration: underline;
+                }
+            }
+            .social{
+                display: block;
+                float: right;
+                i{
+                    margin-right: 3px;
+                    -o-transition: .5s;
+                    -ms-transition: .5s;
+                    -moz-transition: .5s;
+                    -webkit-transition: .5s;
+                    transition: .5s;
+                }
+                a{
+                    color: $base;
+                }
+                i{
+                    font-size: 1.1rem;
+                }
+                #github:hover{
+                    color: $github;
+                }
+                #twitter:hover{
+                    color: $twitter;
+                }
+                #linkedin:hover{
+                    color: $linkedin;
+                }
+                #rss:hover{
+                    color: $rss;
+                }
+                #envelope:hover{
+                    color: $mail;
+                }
+                #instagram:hover{
+                    color: $instagram;
+                }
+                #facebook:hover{
+                    color: $facebook;
+                }
+                #messenger:hover{
+                    color: $messenger;
+                }
+                #youtube:hover{
+                    color: $youtube;
+                }
+                #whatsapp:hover{
+                    color: $whatsapp;
+                }
+                #reddit:hover{
+                    color: $reddit;
+                }
+            }
+        }
+}
