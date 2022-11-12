@@ -1,5 +1,5 @@
 pages:
   - {name: 'Domov', url: '/'}
-  - {name: 'Člani', url: '/clani.html'}
-  - {name: 'Dejavnosti', url: '/dejavnosti.html'}
-  - {name: 'Dosežki', url: '/dosezki.html'}
+  - {name: 'Člani', url: 'clani.html'}
+  - {name: 'Dejavnosti', url: 'dejavnosti.html'}
+  - {name: 'Dosežki', url: 'dosezki.html'}
