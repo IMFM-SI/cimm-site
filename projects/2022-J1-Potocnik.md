@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Research projects
-projects.md
+title: Generating, analysing and cataloging symmetric graph
 ---
 # Generating, analysing and cataloging symmetric graph
 
