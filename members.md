@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Člani
+title: Members
 ---
 
-# Člani
+# Members
 
 ## Primož Potočnik
 

@@ -1,39 +1,64 @@
 ---
 layout: page
-title: Računsko intenzivne metode
+title: Computationally intensive mathematical methods
 ---
 
-# O programski skupini
+# About the programme
 
-* Naziv programa: Računsko intenzivne metode v teoretičnem računalništvu, diskretni matematiki, kombinatorični optimizaciji ter numerični analizi in algebri z uporabo v naravoslovju in družboslovju
+* Računsko intenzivne metode v teoretičnem računalništvu, diskretni matematiki, kombinatorični optimizaciji ter numerični analizi in algebri z uporabo v naravoslovju in družboslovju
 * Vodja: prof. dr. Primož Potočnik
 * Šifra: P1-0294
-* Trajanje: 1.1.2020 - 31.12.2025
+* Trajanje: 1. 1. 2020 - 31. 12. 2025
 
-Dejavnosti skupine so organizirane v laboratorije.
+## Organisations
 
-## Laboratorij za temelje matematike in teoretično računalništvo
+* IMFM
+* UL FMF
+* UP IAM
+* Abelium
 
-### Teme
+## Topics
 
-* teorija tipov,
-* homotopska teorija tipov,
-* konstruktivna in izračunljiva matematika,
-* temelji matematike,
-* matematični temelji programskih jezikov,
-* semantika programskih jezikov,
-* algebrajski učinki in prestrezniki,
-* formalizirana matematika in dokazovalni pomočniki.
+### Discrete geometry and symmetries of discrete objects
 
-### Projekti
+* **Tomaž Pisanski**
+* Primož Potočnik
+* Nino Bašić
+* Arjana Žitnik
 
-* [Type Theory for Data-Intensive Formalization](https://tydiform.fmf.uni-lj.si/)
-* Računsko intenzivne metode v teoretičnem računalništvu, diskretni matematiki, kombinatorični optimizaciji ter numerični analizi in algebri z uporabo v naravoslovju in družboslovju (ARRS P1-0294)
+### Enumerative and algebraic combinatorics
 
-## Laboratorij za simetrije diskretnih objektov
+* **Matjaž Konvalinka**
 
-## Laboratorij za kombinatoriko
+### Mathematical chemistry
 
-## Laboratorij za numerično matematiko
+* **Nino Bašić**
+* Tomaž Pisanski
 
-## Laboratorij za matematične podatke
+### Mathematical knowledge management
+
+* **Katja Berčič**
+* Primož Potočnik
+* Filip Koprivec
+
+### Network and data analysis
+
+* **Vladimir Batagelj**
+* Simona Korenjak Černe
+* Tomaž Pisanski
+
+
+### Type theory and programming languages
+
+* **Matija Pretnar**
+* Egbert Rijke
+* Filip Koprivec
+* Andrej Bauer
+* Katja Berčič
+* Alex Simpson
+
+### Numerical methods
+
+* Bor Plestenjak
+* Gašper Jaklič
+* Jan Grošelj
