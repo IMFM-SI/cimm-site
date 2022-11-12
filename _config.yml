@@ -24,9 +24,10 @@ owner:
   name: Primož Potočnik
   email: primoz.potocnik@fmf.uni-lj.si
 description: Računsko intenzivne metode v teoretičnem računalništvu, diskretni matematiki, kombinatorični optimizaciji ter numerični analizi in algebri z uporabo v naravoslovju in družboslovju
-baseurl: "" # the subpath of your site, e.g. /blog
-locale: si
-url: https://imfm-si.github.io/rimm-site
+baseurl: "/rimm-site" # the subpath of your site, e.g. /blog
+url: https://imfm-si.github.io
+
+locale: en
 
 # Build settings
 # theme: jekyll-yamt
