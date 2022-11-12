@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Računsko intenzivne metode
+title: Computationally intensive methods with applications
 ---
 
 # O programski skupini
