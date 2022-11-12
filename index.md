@@ -37,8 +37,7 @@ Arjana Žitnik
 Matjaž Konvalinka
 
 **Mathematical chemistry**
-: We study properties of graph classes that with relevance in chemistry (e.g. benzenoids and fullerenes graphs). We are interested in spectral properties of graphs (e.g. nullity), combinatorial properties of graphs (e.g. the number of perfect matchings) and their enumeration.
-: `YOUR DESCRIPTION HERE` Subtopic:  Nut graphs. Self-assembly. Topological indices
+: We study properties of graph classes with relevance in chemistry (e.g. benzenoid and fullerene graphs). We are interested in their spectral properties (e.g. nullity), combinatorial properties (e.g. the number of perfect matchings) and their enumeration and characterisation. We also study constructions that produce larger graphs from smaller graphs and preserve a property of our interest.  We also have experience in mathematical modelling behind self-assembly of polypeptides and DNA.
 
 : **Researchers:**
 Nino Bašić,

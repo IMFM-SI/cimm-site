@@ -20,6 +20,7 @@ title: Activities
 {: .activities-list}
 11-16 September 2022, International Conference on Functional Programming (ICFP 2022)
 : ICFP 2022 took place in Ljubljana, Slovenia. Our group was actively involved in its organization:
+
 - Andrej Bauer (general chair)
 - Katja Berčič (student volunteer co-chair)
 - Matija Pretnar (PC member, OCaml workshop PC chair, ML workshop PC member)
@@ -154,6 +155,23 @@ Batagelj, V.: Projections of weighted two-mode networks. [Applied Statistics 202
 11 January 2021 – Philipp Haselwarter defended his PhD thesis
 : “An Effective Metatheory for Type Theory”
 
+{: .activities-list}
+Batagelj, V.: Matematiki in računalniško izobraževanje, do 1980. in S. Divjak, A. Krapež, eds. Zvezek I: 50-letnica poučevanja računalništva v slovenskih srednjih šolah. Zbornik 24. mednarodne multikonference Informacijska Družba – IS 2021, 6. oktober 2021 Ljubljana. 5-9. [paper](http://library.ijs.si/Stacks/Proceedings/InformationSociety/2021/IS2021_Volume_I.pdf), [draft](https://is.ijs.si/wp-content/uploads/2021/10/IS2021_Volume_I-TEMP-2.pdf)
+
+{: .activities-list}
+Batagelj, V.: Analysis of the Southern women network using fractional approach. Social Networks 68(2022), 229-236 [paper](https://www.sciencedirect.com/science/article/pii/S0378873321000630)
+
+{: .activities-list}
+Puc, K., Schlamberger, N., Batagelj, V., Turk, T., Kanič, I.: Pogovor sodelavcev ob 20-letnici Islovarja. [Uporabna informatika](https://uporabna-informatika.si/index.php/ui/article/view/135/110) letnik XXIX / 2 (2021), 129-139
+
+{: .activities-list}
+Maltseva, D., Batagelj, V.: Journals publishing social network analysis. Scientometrics 126 (2021), pages 3593–3620. [Paper](https://doi.org/10.1007/s11192-021-03889-z)
+
+{: .activities-list}
+Kejžar, N., Korenjak-Černe, S., Batagelj, V.: Clustering of modal-valued symbolic data. Advances in Data Analysis and Classification, 15 (2021), pages 513–541; [Paper](https://link.springer.com/article/10.1007/s11634-020-00425-4)+[supplement](https://static-content.springer.com/esm/art%3A10.1007%2Fs11634-020-00425-4/MediaObjects/11634_2020_425_MOESM1_ESM.pdf)
+
+{: .activities-list}
+Batagelj, V., Simona Korenjak-Černe, Nataša Kejžar: Clustering of Modal Valued Data. in Analysis of Distributional Data (Paula Brito and Sonia Dias, Editors). in print 2021 [[http://vladowiki.fmf.uni-lj.si/lib/exe/fetch.php?media=vlado:pub:pap:book_add_draft.pdf|draft]]
 
 ## 2020
 

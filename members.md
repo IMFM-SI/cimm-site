@@ -15,7 +15,9 @@ title: Members
 
 ## Andrej Bauer
 
+Andrej Bauer is a professor of computational mathematics at the Faculty of Mathematics and Physics, University of Ljubljana, and the head of Theoretical Computer Science department at the Institute of mathematics, physics and mechanics.
 
+His work spans foundations of mathematics, constructive and computable mathematics, type theory, homotopy type theory, and mathematical principles of programming languages. He is an author of the book “Homotopy Type Theory: Univalent Foundations of Mathematics” and the initiator of the HoTT library, an extensive formalization of homotopy type theory in the Coq proof assistant. He is also known for his seminal work with Matija Pretnar on programming with algebraic effects and handlers.
 
 * <a href="https://www.andrej.com/">www.andrej.com</a>
 * [COBISS](https://bib.cobiss.net/biblioweb/direct/si/eng/cris/15854)
@@ -27,7 +29,7 @@ title: Members
 
 ## Matjaž Konvalinka
 
-Matjaž Konvalinka is a full professor of mathematics at the Faculty of Mathematics and Physics, University of Ljubljana. His research area are algebraic and enumerative combinatorics. He is the Editor-in-Chief of Annals of Combinatorics and a member of the editorial board of several other journals.
+Matjaž Konvalinka is a professor of mathematics at the Faculty of Mathematics and Physics, University of Ljubljana. His research area are algebraic and enumerative combinatorics. He is the Editor-in-Chief of Annals of Combinatorics and a member of the editorial board of several other journals.
 
 
 * <i class="fas fa-home"></i> <a href="https://www.fmf.uni-lj.si/~konvalinka/">www.fmf.uni-lj.si/~konvalinka/</a>
@@ -115,7 +117,7 @@ Arjana Žitnik is an associate professor of mathematics at the Faculty of Mathem
 
 ## Filip Koprivec
 
-Filip Koprivec is a young researcher at Institute of Mathematics, Physics and Mechanics and teaching assistant at Faculty of Mathematics and Physics, University of Ljubljana. His research focuses on programming languages and efficient compilation of algebraic effects and handlers. He is also interested in blockchaain
+Filip Koprivec is a young researcher at Institute of Mathematics, Physics and Mechanics and teaching assistant at Faculty of Mathematics and Physics, University of Ljubljana. His research focuses on programming languages and efficient compilation of algebraic effects and handlers. He is also interested in blockchain technologies.
 
 * <i class="fas fa-home"></i> <a href="https://github.com/jO-Osko/">https://github.com/jO-Osko/</a>
 * ORCID iD: [0000-0001-9624-9369](https://orcid.org/0000-0001-9624-9369)
@@ -124,6 +126,3 @@ Filip Koprivec is a young researcher at Institute of Mathematics, Physics and Me
 * [COBISS](https://bib.cobiss.net/biblioweb/biblio/si/slv/conor/235638115) bibliography
 * [Google Scholar](https://scholar.google.com/citations?user=5sT3DU4AAAAJ)
 {: .icon-links}
-
-
-

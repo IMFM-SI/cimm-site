@@ -30,4 +30,10 @@ The main goal of this project is to further develop existing mathematical models
 * **Funding agency:** [Slovenian research agency (ARRS)](https://www.arrs.si/en/index.asp)
 * **Project code:** [`N1-0216`](https://cris.cobiss.net/ecris/si/sl/project/17763)
 * **Principal Investigator:** [Primož Potočnik](https://www.fmf.uni-lj.si/~potocnik/)
-* **Funding period:** July 2019 &mdash; June 2022
+* **Funding period:** October 2021 &mdash; September 2024
+
+### [Generating, analysing and cataloging symmetric graphs](projects/2022-J1-Potocnik.html)
+* **Funding agency:** [Slovenian research agency (ARRS)](https://www.arrs.si/en/index.asp)
+* **Project code:** [`J1-4351`]()
+* **Principal Investigator:** [Primož Potočnik](https://www.fmf.uni-lj.si/~potocnik/)
+* **Funding period:** October 2022 &mdash; September 2025
