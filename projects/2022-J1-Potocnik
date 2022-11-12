@@ -1,4 +1,16 @@
+---
+layout: page
+title: Research projects
+projects.md
+---
+# Generating, analysing and cataloging symmetric graph
 
+* **Funding agency:** [Slovenian research agency (ARRS)](https://www.arrs.si/en/index.asp)
+* **Project code:** [`N1-`]()
+* **Principal Investigator:** [Primož Potočnik](https://www.fmf.uni-lj.si/~potocnik/)
+* **Funding period:** October 2022 &mdash; September 2025
+
+## Abstract
 
 The topic of the proposed project lies at the intersection of two mathematical disciplines:  algebra and discrete mathematics, or more precisely, group theory and graph theory. It revolves around the concept of symmetry. It is spiced with computational flavours and intersects with trends in both data stewardship (such as the FAIR principles for scientific data) and mathematical knowledge management.
 
