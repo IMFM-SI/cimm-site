@@ -17,3 +17,17 @@ The main goal of this project is to further develop existing mathematical models
 ### [Primerjava in evalvacija pristopov za bločno modeliranje časovnih omrežij s simulacijami in uporaba na slovenskih so-avtorskih omrežjih](https://cris.cobiss.net/ecris/si/sl/project/18320)
 
 ### [Type Theory for Data-Intensive Formalization](https://tydiform.fmf.uni-lj.si/)
+
+### [The Weiss Conjecture and Generalisations](projects/2019-J1-1691.html)
+
+* **Funding agency:** [Slovenian research agency (ARRS)](https://www.arrs.si/en/index.asp)
+* **Project code:** [`J1-1691`](https://cris.cobiss.net/ecris/si/sl/project/17763)
+* **Principal Investigator:** [Primož Potočnik](https://www.fmf.uni-lj.si/~potocnik/)
+* **Funding period:** July 2019 &mdash; June 2022
+
+### [Symmetry, fixity and flexibility of graphs](projects/2021-N1-0126.html)
+
+* **Funding agency:** [Slovenian research agency (ARRS)](https://www.arrs.si/en/index.asp)
+* **Project code:** [`N1-0216`](https://cris.cobiss.net/ecris/si/sl/project/17763)
+* **Principal Investigator:** [Primož Potočnik](https://www.fmf.uni-lj.si/~potocnik/)
+* **Funding period:** July 2019 &mdash; June 2022
