@@ -3,8 +3,6 @@ layout: page
 title: Computationally intensive mathematical methods
 ---
 
-# Computationally intensive mathematical methods
-
 We develop new methods in computational mathematics and apply them to problems from versatile problem domains, including exploration of mathematical structures in discrete mathematics, geometry, combinatorics, formalisation and management of mathematical knowledge, and large network analysis. Our applications are grounded in state-of-the-art theoretical research in discrete and numerical mathematics and theoretical computer science.
 
 
