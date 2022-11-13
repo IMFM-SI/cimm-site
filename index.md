@@ -20,12 +20,16 @@ We develop new methods in computational mathematics and apply them to problems f
 ## Research topics
 
 **Symmetries of discrete objects**
-: `YOUR DESCRIPTION HERE`
+: We are interested in all aspects of symmetry (and the lack-there off) in discrete mathematics. We are particularly interested in highly symmetrical discrete structures, such as vertex-transitive graphs, regular maps, abstract polytopes and manifolds etc.
 
 : **Researchers:**
 Primož Potočnik,
 Nino Bašić,
-Arjana Žitnik
+Tomaž Pisanski,
+Arjana Žitnik,
+Alejandra Ramos,
+Maruša Lekše (PhD student)
+
 
 **Enumerative and algebraic combinatorics**
 : We use sophisticated techniques for enumeration (both exact and approximate) of objects arising in algebra and geometry.
