@@ -25,6 +25,13 @@ The main goal of this project is to further develop existing mathematical models
 * **Principal Investigator:** [Primož Potočnik](https://www.fmf.uni-lj.si/~potocnik/)
 * **Funding period:** July 2019 &mdash; June 2022
 
+### [Akcijski grafi in tehnike krovnih grafov](projects/2018-J1-9187.html)
+
+* **Funding agency:** [Slovenian research agency (ARRS)](https://www.arrs.si/en/index.asp)
+* **Project code:** [`J1-9187`](https://cris.cobiss.net/ecris/si/sl/project/17763)
+* **Principal Investigator:** [Tomaž Pisanski](https://www.fmf.uni-lj.si/~pisanski/)
+* **Funding period:** July 2018 &mdash; June 2021
+
 ### [Symmetry, fixity and flexibility of graphs](projects/2021-N1-0126.html)
 
 * **Funding agency:** [Slovenian research agency (ARRS)](https://www.arrs.si/en/index.asp)
