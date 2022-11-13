@@ -51,7 +51,7 @@ Filip Koprivec,
 Primož Potočnik
 
 **Network and data analysis**
-: `YOUR DESCRIPTION HERE`
+: We are developing methods for network and data analysis. Current emphasis is on analysis of temporal networks based on temporal quantities (TQs), analysis of bibliographic networks and analysis of symbolic data. 
 
 : **Researchers:**
 Vladimir Batagelj,
