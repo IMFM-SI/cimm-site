@@ -48,8 +48,11 @@ Matjaž Konvalinka is a professor of mathematics at the Faculty of Mathematics a
 
 ## Tomaž Pisanski
 
-* <i class="fas fa-home"></i> <a href="https://www.famnit.upr.si/en/about-faculty/staff/pisanski/"></a>[https://www.famnit.upr.si/en/about-faculty/staff/pisanski/]
-{: .icon-links}
+Tomaž Pisanski is a senior researcher at IAM UP Koper, IMFM and FMF UL Ljubljana.
+
+He is a co-author of a book "[Configurations from a graphical viewpoint](https://link.springer.com/book/10.1007/978-0-8176-8364-1)" that was published in 2013 by Birkhaüser/Springer.
+
+* <i class="fas fa-home"></i> <a href="https://www.famnit.upr.si/en/about-faculty/staff/pisanski/"></a>https://www.famnit.upr.si/en/about-faculty/staff/pisanski/
 * MR Author ID: 139995
 * ORCID iD: [0000-0002-1257-5376](https://orcid.org/0000-0002-1257-5376)
 * [Google Scholar](https://scholar.google.si/citations?user=BHq3KF4AAAAJ&hl=en)
@@ -60,11 +63,21 @@ Matjaž Konvalinka is a professor of mathematics at the Faculty of Mathematics a
 
 ## Vladimir Batagelj
 
+Vladimir Batagelj is Professor Emeritus at University of Ljubljana (2015) and senior researcher at IMFM Ljubljana and IAM UP Koper.
+
+His main research interests are in mathematics and computer science, combinatorics with emphasis on graph theory, algorithms on graphs and networks, combinatorial optimization, algorithms and data structures, cluster analysis, symbolic data analysis, visualization, social network analysis and applications of information technology in education. 
+
+He is a co-author of program [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) for analysis and visualization of large networks.
+He co-authored two books '[Generalized blockmodeling](https://www.cambridge.org/core/books/generalized-blockmodeling/E9B040215C13C1819EA98F2F932BE0CE)' and '[Exploratory Social Network Analysis with Pajek](https://www.cambridge.org/core/books/exploratory-social-network-analysis-with-pajek/6F8EE2512CB7C6D233DB2DAC3886D4F5)'  that were published in 2005 by the Cambridge University Press, and another book ‘[Understanding Large Temporal Networks and Spatial Networks](https://www.wiley.com/en-us/Understanding+Large+Temporal+Networks+and+Spatial+Networks:+Exploration,+Pattern+Searching,+Visualization+and+Network+Evolution-p-9780470714522)’ published by Wiley in 2014.  He also co-authored and co-edited the book ‘[Advances in Network Clustering and Blockmodeling](https://www.wiley.com/en-ie/Advances+in+Network+Clustering+and+Blockmodeling-p-9781119224709)’ published by Wiley in 2020.
+
 * <i class="fas fa-home"></i> <a href="http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado">[vlado.fmf.uni-lj.si/vlado/vlado.htm](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado)</a>
 * MR Author ID: 32440
 * Scopus Author ID: 56037441100
 * ORCID iD: [0000-0002-0240-9446](https://orcid.org/0000-0002-0240-9446)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=H68hVhMAAAAJ)
+* [COBISS](https://plus.cobiss.net/cobiss/si/en/bib/search?q=batagelj+vladimir&db=cobib&mat=allmaterials)
+* [Sicris](https://cris.cobiss.net/ecris/si/en/researcher/4275)
+* [Mathematics Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=20389)
 {: .icon-links}
 
 ## Matija Pretnar
@@ -126,3 +139,6 @@ Filip Koprivec is a young researcher at Institute of Mathematics, Physics and Me
 * [COBISS](https://bib.cobiss.net/biblioweb/biblio/si/slv/conor/235638115) bibliography
 * [Google Scholar](https://scholar.google.com/citations?user=5sT3DU4AAAAJ)
 {: .icon-links}
+
+
+
