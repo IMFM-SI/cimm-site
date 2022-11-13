@@ -21,13 +21,12 @@ We develop new methods in computational mathematics and apply them to problems f
 
 ## Research topics
 
-**Discrete geometry and symmetries of discrete objects**
+**Symmetries of discrete objects**
 : `YOUR DESCRIPTION HERE`
 
 : **Researchers:**
-Tomaž Pisanski,
-Nino Bašić,
 Primož Potočnik,
+Nino Bašić,
 Arjana Žitnik
 
 **Enumerative and algebraic combinatorics**
