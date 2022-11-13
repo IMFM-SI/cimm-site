@@ -1,13 +1,14 @@
+This is the repository for the website of the CIMM research programme at IMFM (Računsko intenzivne metode v teoretičnem računalništvu, diskretni matematiki, kombinatorični optimizaciji ter numerični analizi in algebri z uporabo v naravoslovju in družboslovju).
 
-# Web site
+## How to edit the web page content
 
 This web site uses [Jekyll](https://jekyllrb.com) for generation of web pages from Markdown source, and [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) as lipstick. The pages are served via [GitHub pages](https://guides.github.com/features/pages/) at [(https://imfm-si.github.io/cimm-site/)](https://imfm-si.github.io/cimm-site/).
 
-### How to edit the web page content
-
 The pages are written in the Markdown format and automatically translated to HTML by
 GitHub. Simply edit the Markdown files and use Git to push the changes back to the server.
-The website always shows the contents of the `master` branch of the GitHub repository.
+The website always shows the contents of the `main` branch of the GitHub repository.
+
+You can edit the `.md` files in GitHub's online editor, or locally on your machine:
 
 1. `git pull`
 2. Make changes to `.md` files (see below)
