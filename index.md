@@ -21,13 +21,12 @@ We develop new methods in computational mathematics and apply them to problems f
 
 ## Research topics
 
-**Discrete geometry and symmetries of discrete objects**
+**Symmetries of discrete objects**
 : `YOUR DESCRIPTION HERE`
 
 : **Researchers:**
-Tomaž Pisanski,
-Nino Bašić,
 Primož Potočnik,
+Nino Bašić,
 Arjana Žitnik
 
 **Enumerative and algebraic combinatorics**
@@ -52,7 +51,7 @@ Filip Koprivec,
 Primož Potočnik
 
 **Network and data analysis**
-: `YOUR DESCRIPTION HERE`
+: We are developing methods for network and data analysis. Current emphasis is on analysis of temporal networks based on temporal quantities (TQs), analysis of bibliographic networks and analysis of symbolic data. 
 
 : **Researchers:**
 Vladimir Batagelj,

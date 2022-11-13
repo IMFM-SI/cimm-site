@@ -1,7 +1,7 @@
 
 # Web site
 
-This web site uses [Jekyll](https://jekyllrb.com) for generation of web pages from Markdown source, and [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) as lipstick. The pages are served via [GitHub pages](https://guides.github.com/features/pages/) at [https://tydiform.fmf.uni-lj.si](https://tydiform.fmf.uni-lj.si).
+This web site uses [Jekyll](https://jekyllrb.com) for generation of web pages from Markdown source, and [YAMT theme](http://jekyllthemes.org/themes/jekyll-yamt/) as lipstick. The pages are served via [GitHub pages](https://guides.github.com/features/pages/) at [(https://imfm-si.github.io/cimm-site/)](https://imfm-si.github.io/cimm-site/).
 
 ### How to edit the web page content
 
