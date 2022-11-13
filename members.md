@@ -19,6 +19,7 @@ He co-authored two books '[Generalized blockmodeling](https://www.cambridge.org/
 * Scopus Author ID: 56037441100
 * ORCID iD: [0000-0002-0240-9446](https://orcid.org/0000-0002-0240-9446)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=H68hVhMAAAAJ)
+* [DBLP](https://dblp.uni-trier.de/pid/83/460.html)
 * [COBISS](https://plus.cobiss.net/cobiss/si/en/bib/search?q=batagelj+vladimir&db=cobib&mat=allmaterials)
 * [Sicris](https://cris.cobiss.net/ecris/si/en/researcher/4275)
 * [Mathematics Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=20389)
