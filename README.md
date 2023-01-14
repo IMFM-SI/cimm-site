@@ -15,7 +15,7 @@ You can edit the `.md` files in GitHub's online editor, or locally on your machi
 3. `git status` to see what files you changed
 4. `git add XYZ.md` for every file you changed and you wish to commit
 5. `git push`
-6. Go to the [project web page](https://tydiform.fmf.uni-lj.si), make sure to reload the page.
+6. Go to the [project web page](https://imfm-si.github.io/cimm-site/), make sure to reload the page.
 
 The `.md` files are Markdown files, here is a [quick Markdown reference](https://guides.github.com/features/mastering-markdown/).
 

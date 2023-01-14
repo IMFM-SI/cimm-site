@@ -1,0 +1,29 @@
+.member-profile-links {
+    list-style-type: none;
+}
+.member-profile-links li {
+    margin: 0.4em 0em;
+}
+
+ul.inline-list {
+    display: inline;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+ul.inline-list li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+ul.inline-list li:after {
+    content: ", ";
+}
+ul.inline-list li:last-child:after {
+    content: "";
+}
+
+.icon-links i {
+    color: $color-secondary;
+    width: 1.3em;
+}

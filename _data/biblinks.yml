@@ -1,0 +1,27 @@
+mr_id:
+  name: 'MR Author ID'
+  url: 'https://www.ams.org/mathscinet/search/author.html?mrauthid=' 
+dblp: 
+  name: 'DBLP'
+  url: 'https://dblp.uni-trier.de/pid/'
+sicris:
+  name: 'SICRIS'
+  url: 'https://bib.cobiss.net/biblioweb/biblio/si/eng/cris/'
+google_scholar:
+  name: 'Google Scholar'
+  url: 'https://scholar.google.com/citations?user='
+scopus:
+  name: 'Scopus'
+  url: 'https://www.scopus.com/authid/detail.uri?authorId='
+cobiss:
+  name: 'COBISS'
+  url: 'https://plus.cobiss.net/cobiss/si/en/bib/search?q='
+wikipedia:
+  name: 'Wikipedia'
+  url: 'https://en.wikipedia.org/wiki/'
+academia_europaea:
+  name: 'Academia Europaea'
+  url: https://www.ae-info.org/ae/Member/'
+ias:
+  name: 'Engineering Academy of Slovenia'
+  url: 'https://www.ias.si/en/'
