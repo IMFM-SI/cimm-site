@@ -2,5 +2,4 @@ pages:
   - {name: 'Home', url: '/'}
   - {name: 'Members', url: '/members.html'}
   - {name: 'Activities', url: '/activities.html'}
-  - {name: 'Activities Data', url: '/activities-data.html'}
   - {name: 'Projects', url: '/projects.html'}

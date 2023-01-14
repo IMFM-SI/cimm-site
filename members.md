@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members - Gen
+title: Members
 ---
 
 # Members

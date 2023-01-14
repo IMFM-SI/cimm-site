@@ -42,3 +42,9 @@ ul.inline-list li:last-child:after {
 .activities-list dd li {
     font-size: 100%;
 }
+
+.project-info span {
+    color: $color-secondary;
+    font-style: italic;
+    margin-right: 0.5em;
+}

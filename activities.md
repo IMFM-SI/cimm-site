@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities - Gen
+title: Activities
 ---
 
 {% assign activities_by_year = site.data.activities %}
