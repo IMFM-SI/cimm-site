@@ -3,6 +3,8 @@ layout: page
 title: Members - Gen
 ---
 
+# Members
+
 {% assign members_by_family_name = site.members | sort: "family_name" %}
 {% for member in members_by_family_name %}
 

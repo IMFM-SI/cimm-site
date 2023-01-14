@@ -1,0 +1,89 @@
+- start_date: 2021-12-21
+  description: "Anja Petković Komel defended her PhD thesis : “[Meta-analysis of type theories with an application to the design of formal proofs](https://anjapetkovic.com/img/doctoralThesis.pdf)”"
+
+- start_date: 2021-11-18
+  description: "9:00-12:00 - Batagelj, V. received the [Blejec award](https://stat-d.si/2021/11/19/podeljena-so-bila-priznanja-statisticnega-drustva-slovenije-za-leto-2020-in-2021-18-11-2021/) from the Slovenian statistical society at [Statistični dan 2021](https://www.stat.si/StatWeb/news/Index/9903), SURS."
+
+- start_date: 2021-10-17
+  end_date: 2021-10-22
+  description: "“Efficient Compilation of Algebraic Effect Handlers” (SPLASH 2021), contributed talk: Georgios Karachalias, Filip Koprivec, [Matija Pretnar](members.md#Matija-Pretnar), Tom Schrijvers, “Efficient Compilation of Algebraic Effect Handlers”, contributed talk, [ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org)"
+
+- start_date: 2021-10-18
+  end_date: 2021-10-20
+  description: "Batagelj, V.: Network multiplication and derived networks. [NET 2021 - The 11th International Conference on Network Analysis](https://nnov.hse.ru/en/latna/conferences/net2021). Nizhny Novgorod / Zoom. [slides](https://github.com/bavla/NormNet/blob/main/docs/net2021.pdf)"
+
+- start_date: 2021-10-13
+  description: "[Andrej Bauer receives 2022 Conant Prize](https://www.ams.org/news?news_id=6827): Andrej Bauer has received the 2022 AMS Levi L. Conant Prize for the article “[Five stages of accepting constructive mathematics](https://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/)”, Bulletin of the AMS, 54 (2017), 481-498. The Levi L. Conant Prize recognizes the best expository paper published in either the Notices of the AMS or the Bulletin of the AMS in the preceding five years."
+
+- start_date: 2021-10-11
+  end_date: 2021-10-12
+  description: "[COST action CA20111: European Research Network on Formal Proofs](https://europroofnet.github.io), project start: Andrej Bauer and Anja Petković Komel attended the first Management Committee Meeting of the European Research Network on Formal Proofs COST network. They are the Slovenian representatives in the Management Committee. Anja Petković Komel has been elected the gender-balance coordinator."
+
+- start_date: 2021-10-06
+  description: "Batagelj, V.: Matematiki in računalniško izobraževanje, do leta 1980 / osebni pogled. IJS / on Zoom.  [IS 2021 - Multiconference Information Society 2021](https://is.ijs.si/?lang=en), [YouTube](https://www.youtube.com/watch?v=oTVJMBsF9VE). [paper](http://library.ijs.si/Stacks/Proceedings/InformationSociety/2021/IS2021_Volume_I.pdf), in S. Divjak, A. Krapež, eds. Zvezek I: 50-letnica poučevanja računalništva v slovenskih srednjih šolah. Zbornik 24. mednarodne multikonference Informacijska Družba – IS 2021, Ljubljana, pp 5-9. [draft](https://is.ijs.si/wp-content/uploads/2021/10/IS2021_Volume_I-TEMP-2.pdf)"
+
+- start_date: 2021-09-06
+  end_date: 2021-09-10
+  description: "Batagelj, V.: Blockmodeling temporal networks described by temporal quantities using clustering with relational constraint. Naples / on Zoom. [EUSN 2021 -- 5th European Conference on Social Networks](http://www.eusn2021.unina.it/), [slides](https://github.com/bavla/TQ/blob/master/docs/BMCRCtq.pdf)."
+
+- start_date: 2021-08-22
+  description: "“[Higher-Order Asynchronous Effects](https://danel.ahman.ee/papers/hope21.pdf)” (HOPE 2021), contributed talk: Danel Ahman, [Matija Pretnar](members.md#Matija-Pretnar), and Janez Radešček, “Higher-Order Asynchronous Effects”, contributed talk, [Higher-Order Programming with Effects](https://icfp21.sigplan.org/home/hope-2021), [abstract](https://danel.ahman.ee/papers/hope21.pdf)."
+
+- start_date: 2021-07-18
+  end_date: 2021-07-23
+  description: "[Scalable Handling of Effects](https://www.dagstuhl.de/21292), Andrej Bauer and Matija Pretnar participated in the Dagstuhl Seminar 21292."
+
+- start_date: 2021-07-17
+  end_date: 2021-07-18
+  description: "“[Towards an Elaboration Theorem](https://youtu.be/Rxe7Bk3f5D4)” (HoTT/UF 2021), invited talk: Anja Petković Komel, “Towards an Elaboration Theorem”, invited talk, [Workshop on Homotopy Type Theory/Univalent Foundations](https://hott-uf.github.io/2021/), [abstract](https://hott-uf.github.io/2021/petkovic-komel.txt), [slides](https://www.icloud.com/keynote/0xQo428lRzMDGsGxDSe-jIUUQ#ElaborationTheorem), [video](https://youtu.be/Rxe7Bk3f5D4)."
+
+- start_date: 2021-07-05
+  end_date: 2021-07-10
+  description: "Batagelj, V.: Normalizations and Projections in Analysis of Weighted Two-Mode Networks. On Zoom. [Networks 2021 and XXXXI Sunbelt Social Networks Conference](https://networks2021.net/), [slides](https://github.com/bavla/NormNet/blob/main/docs/W2modeSlides.pdf)"
+
+- start_date: 2021-06-20
+  end_date: 2021-06-26
+  description: |
+   [8th European Congress of Mathematics](https://8ecm.si)
+   - [Tomaž Pisanski](members.md#Tomaž-Pisanski), Chair of Organizing Committee
+   - Invited talk: Andrej Bauer, “The dawn of formalized mathematics”, [abstract](https://8ecm.si/system/admin/abstracts/pdfs/000/001/117/original/andrej-bauer.pdf?1626163987), [slides](https://8ecm.si/system/admin/abstracts/presentations/000/001/117/original/the-dawn-of-formalized-mathematics.pdf?1626163986), [video](https://www.youtube.com/watch?v=Z500sma3h90).
+   - Batagelj, V.: Semirings and temporal network analysis. On Zoom. [slides](https://github.com/bavla/TQ/blob/master/docs/TNA.pdf)
+   - [Mathematics in the Digital Age of Science](https://www.8ecm.si/minisymposia), minisymposium organization: Katja Berčič was one of the organisers of the minisymposium dedicated to digital representation of, improving access to and preservation of mathematical knowledge, as well as other ways of using the digital environment to benefit mathematics. She also gave a talk, “[Infrastructure for mathematical data](https://8ecm.si/system/admin/abstracts/pdfs/000/001/020/original/katja-bercic.pdf?1619882418)”
+
+
+- start_date: 2021-06-14
+  end_date: 2021-06-18
+  description: |
+   [27th International Conference on Types for Proofs and Programs](https://types21.liacs.nl) (TYPES 2021)
+   - “[Type theories without contexts](https://types21.liacs.nl/download/type-theories-without-contexts/)”, contributed talk: Andrej Bauer and Philipp G. Haselwarter
+   - “[Equality checking for dependent type theories](https://types21.liacs.nl/download/equality-checking-for-dependent-type-theories/)”, contributed talk: Andrej Bauer and Anja Petković
+
+- start_date: 2021-05-24
+  end_date: 2021-05-26
+  description: "Batagelj, V.: Semirings in network data analysis, an overview (invited): on Zoom. [MS2A2M conference](http://mathsocart.masfak.ni.ac.rs/About_Conference.html), [abstracts](http://mathsocart.masfak.ni.ac.rs/ms2a2m2021_files/Abstract%20Booklet.pdf), [slides](https://github.com/bavla/semirings/blob/master/docs/semirings.pdf)."
+
+- start_date: 2021-05-20
+  description: "“[Contextual Categories](https://www.fmf.uni-lj.si/en/news/event/214/contextual-categories/)“, online seminar: Egbert Rijke and John Cartmell organized an online seminar on contextual categories. It was attended by several dozen researchers from the international community."
+
+- start_date: 2021-04-12
+  end_date: 2021-04-16
+  description: "[Spring School on Homotopy Type Theory](https://epit2020cnrs.inria.fr) (EPIT): Andrej Bauer and Egbert Rijke were invited lecturers at the Spring school on Homotopy type theory, organized by Ecole de Printemps d'Informatique Théorique, France."
+
+- start_date: 2021-04-08
+  description: "“[A higher encode decode method](https://youtu.be/KvHGds-AL8M)” (HoTTEST), invited talk: Egbert Rijke, “A higher encode decode method”, [Homotopy Type Theory Electronic Seminar Talks](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest.html), [slides](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottestfiles/Rijke-2021-04-08-HoTTEST.pdf)."
+
+- start_date: 2021-01-25
+  end_date: 2021-01-28
+  description: "[Computer Science Logic 2021](https://csl2021.fmf.uni-lj.si), conference organization: Danel Ahman, Andrej Bauer, Katja Berčič, and Anja Petković Komel were members of the organizing team of CSL 2021 on-line conference."
+
+- start_date: 2021-01-17
+  end_date: 2021-01-22
+  description: "“[Asynchronous Effects](https://youtu.be/BPNxvRCnOBA)” (POPL 2021), contributed talk: Danel Ahman, [Matija Pretnar](members.md#Matija-Pretnar), “Asynchronous Effects”, [48th ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl21.sigplan.org), [paper](https://doi.org/10.1145/3434305)."
+
+- start_date: 2021-01-11
+  description: "Philipp Haselwarter defended his PhD thesis: “An Effective Metatheory for Type Theory”"
+
+
+
+
+

@@ -27,3 +27,18 @@ ul.inline-list li:last-child:after {
     color: $color-secondary;
     width: 1.3em;
 }
+
+.activities-list dt {
+    font-style: italic;
+    color: $color-primary
+}
+.activities-list dd {
+    margin: 0.5rem 0 2rem 0;
+    margin-inline-start: 0rem;
+}
+.activities-list dd ul {
+    margin: 0.3em 0;
+}
+.activities-list dd li {
+    font-size: 100%;
+}

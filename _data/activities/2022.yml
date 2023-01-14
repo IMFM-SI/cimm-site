@@ -1,0 +1,82 @@
+- start_date: 2022-12-12
+  end_date: 2022-12-16
+  description: "[Matjaž Konvalinka](members.md#Matjaz-Konvalinka) attends the workshop [_Enumerative Combinatorics_](https://www.mfo.de/occasion/2250/www_view) in Oberwolfach."
+
+- start_date: 2022-11-12
+  end_date: 2022-11-13
+  description: "[Meeting of the research group](https://imfm-si.github.io/RIMM22/) in [_Terme Čatež_](https://www.terme-catez.si/en/)."
+
+- start_date: 2022-11-11
+  description: "Batagelj, V.: 60 let računalnika Zuse Z23 in začetki računalništva v Sloveniji. 75. Občni zbor DMFA Slovenije, Terme Čatež. [Slides](http://vlado.fmf.uni-lj.si/dl/60let.pdf)."
+
+- start_date: 2022-11-10
+  description: "[Andrej Bauer](members.md#Andrej-Bauer) delivered a public lecture [Voting systems at Slovenian local elecions](https://volitve.fmf.uni-lj.si/)."
+
+- start_date: 2022-09-21
+  description: "Batagelj, V.: Projections of weighted two-mode networks. [Applied Statistics 2022](https://stat-d.si/applied-statistics-conference/as2022/), Ljubljana, Slovenia. [Slides]()."
+
+- start_date: 2022-09-11
+  end_date: 2022-09-16
+  description: |
+   [International Conference on Functional Programming](https://icfp22.sigplan.org) (ICFP 2022) took place in Ljubljana, Slovenia. 
+   Our group was actively involved in its organization:
+   - Andrej Bauer (general chair)
+   - Katja Berčič (student volunteer co-chair)
+   - Matija Pretnar (PC member, OCaml workshop PC chair, ML workshop PC member)
+   - Filip Koprivec (student volunteer)
+
+- start_date: 2022-09-07
+  end_date: 2022-09-08
+  description: |
+   [Symbolic Data Analysis Workshop](https://www.matfis.unicampania.it/home-SDA2022) (SDA 2022), Caserta, Italy
+   - Batagelj, V. Member of the Program Committee.
+   - Batagelj, V.: Symbolic Networks and Algebra. [Slides](https://github.com/bavla/SDA/blob/main/docs/SDAnets.pdf)
+   
+- start_date: 2022-07-19
+  end_date: 2022-07-24
+  description: |
+   [Classification and Data Science in the Digital Age](https://ifcs2022.fep.up.pt/) (IFCS 2022), Porto
+   - Batagelj, V. Member of the Scientific Programme Committee.
+   - Batagelj, V.: Clustering and Blockmodeling Temporal Networks - Two Indirect Approaches. 
+     [Slides](https://github.com/bavla/SDA/blob/main/docs/ifcs22.pdf). 
+     Paper in: Paula Brito, José G. Dias, Berthold Lausen, Angela Montanari, Rebecca Nugent (eds.) 
+     [Springer](https://link.springer.com/book/9783031090356), [Paper](https://github.com/bavla/SDA/blob/main/docs/IFCS22paper.pdf).
+
+- start_date: 2022-07-12
+  end_date: 2022-07-16
+  description: |
+   [Sunbelt 2022](https://www.sunbelt2022.org/), Cairns, Australia & Zoom
+   - Batagelj, V.: Projections of signed two-mode networks.  Online/Zoom. [Slides](https://github.com/bavla/NormNet/blob/main/docs/sunbelt22.pdf).
+   - Matveeva, N., Ferligoj, A., Batagelj, V.: Co-authorship network of post-Soviet countries. Online/Zoom.
+
+- start_date: 2022-05-30
+  end_date: 2022-06-03
+  description: "[Tomaž Pisanski](members.md#Tomaž-Pisanski) delivered a plenary lecture at [Combinatorics 2022, Mantua, Italy](https://combinatorics2022.unibs.it/media/poster.pdf)."
+
+- start_date: 2022-05-23
+  end_date: 2022-05-25
+  description: "Batagelj, V.: On projections of two-mode networks (plenary). 12th International Conference on Network Analysis, [NET 2022](https://nnov.hse.ru/en/latna/conferences/net2022), Nizhny Novgorod / on Zoom.  [Slides](https://github.com/bavla/NormNet/blob/main/docs/net22.pdf)."
+
+- start_date: 2022-04-20
+  end_date: 2022-04-22
+  description: "Batagelj, V.: Projections of binary two-mode networks. [Austrian and Slovenian Statistical Days 2022](http://www.stat.tugraz.at/StatisticalDays2022/index.html), Graz, Austria;  [Slides](https://github.com/bavla/biblio/blob/master/doc/StatDays22.pdf)."
+
+- start_date: 2022-04-06
+  description: "[Matija Pretnar](members.md#Matija-Pretnar) receives [ETAPS 2022 Test of time award](https://etaps.org/2022/test-of-time-award): Gordon Plotkin and Matija Pretnar received the ETAPS 2022 Test of time award for the article “[Handlers of Algebraic Effects](https://doi.org/10.1007/978-3-642-00590-9_7)”. The ETAPS Test of Time Award, recognizes outstanding papers published more than 10 years in the past in one of the constituent conferences of ETAPS."
+
+- start_date: 2022-04-04
+  end_date: 2022-04-07
+  description: |
+   [Yasin-23](https://conf.hse.ru/en/2022/), HSE / on Zoom
+   - Batagelj, V.: On projections of a binary two-mode network. [Slides](https://github.com/bavla/NormNet/blob/main/docs/yasin2022.pdf).
+   - Matveeva, N., Batagelj, V., Ferligoj, A.: Scientific collaboration network of post-Soviet countries: the effects of different networks normalizations.
+
+- start_date: 2022-02-21
+  end_date: 2022-02-25
+  description: "“[Logic and higher structures](https://conferences.cirm-math.fr/2689.html)”, invited lecturer and speaker: Egbert Rijke was an invited lecturer at the “Logic and higher structures” conference, organized by [Centre International de Rencontres Mathématiques](https://conferences.cirm-math.fr) in Marseille, France. Andrej Bauer was a speaker at the same meeting."
+
+- start_date: 2022-01-10
+  end_date: 2022-01-20
+  description: "[_FPSAC 2021_](https://fpsac2021.math.biu.ac.il/), conference organization: [Matjaž Konvalinka](members.md#Matjaz-Konvalinka) was a member of the Program Committee." 
+
+
