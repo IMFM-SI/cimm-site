@@ -22,14 +22,17 @@ The `.md` files are Markdown files, here is a [quick Markdown reference](https:/
 Page source files:
 
 * [`index.md`](./index.md) -- main page
-* [`clani.md`](./clani.md) -- members
-* [`dejavnosti.md`](./dejavnosti.md) -- a timeline of activities
-* [`dosezki.md`](./dosezki.md) -- project group achievements
+* [`activities.md`](./activities.md) -- a timeline of activities
+* [`projects.md`](./projects.md) -- project group achievements
+
+The member profiles are in the directory `_members`. 
+See the [README](https://github.com/IMFM-SI/cimm-site/blob/main/_members/README.md) file there on how to to edit your profile.
 
 ### How to generate the web page locally
 
 You need not generate the pages before you publish them, but it might be a good idea to do
 so and verify that the pages are OK, especially if you make significant changes.
+If you just make a small content edit (such as editing your profile), it is enough to edit the corresponding markdown file in the online editor.
 
 To generate web pages locally for preview, you need [Jekyll](https://jekyllrb.com), which
 needs a million subsidiary Ruby packages. Rather than trying to install them with your
