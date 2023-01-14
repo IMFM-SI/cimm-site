@@ -26,7 +26,10 @@ Page source files:
 * [`projects.md`](./projects.md) -- project group achievements
 
 The member profiles are in the directory `_members`. 
-See the [README](https://github.com/IMFM-SI/cimm-site/blob/main/_members/README.md) file there on how to to edit your profile.
+See the [README](https://github.com/IMFM-SI/cimm-site/blob/main/_members/README.md) file there on how to edit your profile.
+
+The project profiles are in the directory `_projects`. 
+See the [README](https://github.com/IMFM-SI/cimm-site/blob/main/_projects/README.md) file there on how to edit the profile of your project.
 
 ### How to generate the web page locally
 

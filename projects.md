@@ -39,7 +39,7 @@ title: Research projects
         <span>Member(s) participating in the project:</span>
         <ul class="inline-list">
         {% for pgi in project.pg_investigators %}
-        <li>{{ pgi }}</li>
+        <li>{{ pgi | markdownify | remove: '<p>' | remove: '</p>' }}</li>
         {% endfor %}
         </ul>
     </li>
