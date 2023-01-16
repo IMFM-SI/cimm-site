@@ -10,7 +10,7 @@
   description: "Batagelj, V.: 60 let računalnika Zuse Z23 in začetki računalništva v Sloveniji. 75. Občni zbor DMFA Slovenije, Terme Čatež. [Slides](http://vlado.fmf.uni-lj.si/dl/60let.pdf)."
 
 - start_date: 2022-11-10
-  description: "[Andrej Bauer](members.md#Andrej-Bauer) delivered a public lecture [Voting systems at Slovenian local elecions](https://volitve.fmf.uni-lj.si/)."
+  description: "[Andrej Bauer](members.html#andrej-bauer) delivered a public lecture [Voting systems at Slovenian local elecions](https://volitve.fmf.uni-lj.si/)."
 
 - start_date: 2022-09-21
   description: "Batagelj, V.: Projections of weighted two-mode networks. [Applied Statistics 2022](https://stat-d.si/applied-statistics-conference/as2022/), Ljubljana, Slovenia. [Slides]()."
@@ -51,7 +51,7 @@
 
 - start_date: 2022-05-30
   end_date: 2022-06-03
-  description: "[Tomaž Pisanski](members.md#Tomaž-Pisanski) delivered a plenary lecture at [Combinatorics 2022, Mantua, Italy](https://combinatorics2022.unibs.it/media/poster.pdf)."
+  description: "[Tomaž Pisanski](members.html#tomaž-pisanski) delivered a plenary lecture at [Combinatorics 2022, Mantua, Italy](https://combinatorics2022.unibs.it/media/poster.pdf)."
 
 - start_date: 2022-05-23
   end_date: 2022-05-25
@@ -62,7 +62,7 @@
   description: "Batagelj, V.: Projections of binary two-mode networks. [Austrian and Slovenian Statistical Days 2022](http://www.stat.tugraz.at/StatisticalDays2022/index.html), Graz, Austria;  [Slides](https://github.com/bavla/biblio/blob/master/doc/StatDays22.pdf)."
 
 - start_date: 2022-04-06
-  description: "[Matija Pretnar](members.md#Matija-Pretnar) receives [ETAPS 2022 Test of time award](https://etaps.org/2022/test-of-time-award): Gordon Plotkin and Matija Pretnar received the ETAPS 2022 Test of time award for the article “[Handlers of Algebraic Effects](https://doi.org/10.1007/978-3-642-00590-9_7)”. The ETAPS Test of Time Award, recognizes outstanding papers published more than 10 years in the past in one of the constituent conferences of ETAPS."
+  description: "[Matija Pretnar](members.html#matija-pretnar) receives [ETAPS 2022 Test of time award](https://etaps.org/2022/test-of-time-award): Gordon Plotkin and Matija Pretnar received the ETAPS 2022 Test of time award for the article “[Handlers of Algebraic Effects](https://doi.org/10.1007/978-3-642-00590-9_7)”. The ETAPS Test of Time Award, recognizes outstanding papers published more than 10 years in the past in one of the constituent conferences of ETAPS."
 
 - start_date: 2022-04-04
   end_date: 2022-04-07

@@ -6,7 +6,7 @@
 
 - start_date: 2021-10-17
   end_date: 2021-10-22
-  description: "“Efficient Compilation of Algebraic Effect Handlers” (SPLASH 2021), contributed talk: Georgios Karachalias, Filip Koprivec, [Matija Pretnar](members.md#Matija-Pretnar), Tom Schrijvers, “Efficient Compilation of Algebraic Effect Handlers”, contributed talk, [ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org)"
+  description: "“Efficient Compilation of Algebraic Effect Handlers” (SPLASH 2021), contributed talk: Georgios Karachalias, Filip Koprivec, [Matija Pretnar](members.html#matija-pretnar), Tom Schrijvers, “Efficient Compilation of Algebraic Effect Handlers”, contributed talk, [ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity](https://2021.splashcon.org)"
 
 - start_date: 2021-10-18
   end_date: 2021-10-20
@@ -27,7 +27,7 @@
   description: "Batagelj, V.: Blockmodeling temporal networks described by temporal quantities using clustering with relational constraint. Naples / on Zoom. [EUSN 2021 -- 5th European Conference on Social Networks](http://www.eusn2021.unina.it/), [slides](https://github.com/bavla/TQ/blob/master/docs/BMCRCtq.pdf)."
 
 - start_date: 2021-08-22
-  description: "“[Higher-Order Asynchronous Effects](https://danel.ahman.ee/papers/hope21.pdf)” (HOPE 2021), contributed talk: Danel Ahman, [Matija Pretnar](members.md#Matija-Pretnar), and Janez Radešček, “Higher-Order Asynchronous Effects”, contributed talk, [Higher-Order Programming with Effects](https://icfp21.sigplan.org/home/hope-2021), [abstract](https://danel.ahman.ee/papers/hope21.pdf)."
+  description: "“[Higher-Order Asynchronous Effects](https://danel.ahman.ee/papers/hope21.pdf)” (HOPE 2021), contributed talk: Danel Ahman, [Matija Pretnar](members.html#matija-pretnar), and Janez Radešček, “Higher-Order Asynchronous Effects”, contributed talk, [Higher-Order Programming with Effects](https://icfp21.sigplan.org/home/hope-2021), [abstract](https://danel.ahman.ee/papers/hope21.pdf)."
 
 - start_date: 2021-07-18
   end_date: 2021-07-23
@@ -45,7 +45,7 @@
   end_date: 2021-06-26
   description: |
    [8th European Congress of Mathematics](https://8ecm.si)
-   - [Tomaž Pisanski](members.md#Tomaž-Pisanski), Chair of Organizing Committee
+   - [Tomaž Pisanski](members.html#tomaž-pisanski), Chair of Organizing Committee
    - Invited talk: Andrej Bauer, “The dawn of formalized mathematics”, [abstract](https://8ecm.si/system/admin/abstracts/pdfs/000/001/117/original/andrej-bauer.pdf?1626163987), [slides](https://8ecm.si/system/admin/abstracts/presentations/000/001/117/original/the-dawn-of-formalized-mathematics.pdf?1626163986), [video](https://www.youtube.com/watch?v=Z500sma3h90).
    - Batagelj, V.: Semirings and temporal network analysis. On Zoom. [slides](https://github.com/bavla/TQ/blob/master/docs/TNA.pdf)
    - [Mathematics in the Digital Age of Science](https://www.8ecm.si/minisymposia), minisymposium organization: Katja Berčič was one of the organisers of the minisymposium dedicated to digital representation of, improving access to and preservation of mathematical knowledge, as well as other ways of using the digital environment to benefit mathematics. She also gave a talk, “[Infrastructure for mathematical data](https://8ecm.si/system/admin/abstracts/pdfs/000/001/020/original/katja-bercic.pdf?1619882418)”
@@ -78,7 +78,7 @@
 
 - start_date: 2021-01-17
   end_date: 2021-01-22
-  description: "“[Asynchronous Effects](https://youtu.be/BPNxvRCnOBA)” (POPL 2021), contributed talk: Danel Ahman, [Matija Pretnar](members.md#Matija-Pretnar), “Asynchronous Effects”, [48th ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl21.sigplan.org), [paper](https://doi.org/10.1145/3434305)."
+  description: "“[Asynchronous Effects](https://youtu.be/BPNxvRCnOBA)” (POPL 2021), contributed talk: Danel Ahman, [Matija Pretnar](members.html#matija-pretnar), “Asynchronous Effects”, [48th ACM SIGPLAN Symposium on Principles of Programming Languages](https://popl21.sigplan.org), [paper](https://doi.org/10.1145/3434305)."
 
 - start_date: 2021-01-11
   description: "Philipp Haselwarter defended his PhD thesis: “An Effective Metatheory for Type Theory”"
