@@ -6,7 +6,7 @@ title: Research projects
 # Research projects
 
 {% assign projects = site.projects | sort: "start" %}
-{% for project in site.projects reversed %}
+{% for project in site.projects %}
 
 {% if project.url %}
 ## [{{ project.title }}]({{ project.url }})

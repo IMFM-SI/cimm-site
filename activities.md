@@ -3,7 +3,7 @@ layout: page
 title: Activities
 ---
 
-{% assign activities_by_year = site.data.activities %}
+{% assign activities_by_year = site.data.activities | sort %}
 
 # Activities
 
